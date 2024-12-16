@@ -68,7 +68,32 @@
 - Активация ML-агента GameDiva
 - Переход к работе сразу с папкой проекта Unity C:\Users\712\ML-Agent_GameDIva
 ![Снимок экрана 2024-12-16 141720](https://github.com/user-attachments/assets/59e7b40b-9f4d-474e-be71-70d371840f00)
+- Установка библиотек
 
+![Снимок экрана 2024-12-16 151254](https://github.com/user-attachments/assets/8c399b2d-ee6d-407c-9956-de650557f9c6)
+
+![Снимок экрана 2024-12-16 151318](https://github.com/user-attachments/assets/a8e294b8-ebbc-4ea7-8420-7d9bd4ae2c1a)
+
+![Снимок экрана 2024-12-16 154806](https://github.com/user-attachments/assets/5cd9d9d2-f4ce-4063-8983-600dcd4262b5)
+
+- Создание на сцене плоскости, куба и сферы
+- Создание C# скрипта и подключение его к сфере
+
+![Снимок экрана 2024-12-16 163610](https://github.com/user-attachments/assets/8cc855c9-03be-4bad-940f-510fdeda6954)
+
+- Доабвление кода к сфере из материалов лабораторных работ
+
+![Снимок экрана 2024-12-16 164001](https://github.com/user-attachments/assets/c3e3ec13-c6e6-4be0-88ad-10510fb42b8f)
+
+![Снимок экрана 2024-12-16 164007](https://github.com/user-attachments/assets/6d8985e6-2a3d-45a6-b0f9-370c67bc85f6)
+
+- Добавление к сфере Rigitbody, Decision Requester, Behavior Parameters и их настройка
+
+![Снимок экрана 2024-12-16 170045](https://github.com/user-attachments/assets/836e9bdb-f9e0-4f24-ad05-968cd9240c48)
+
+![Снимок экрана 2024-12-16 170105](https://github.com/user-attachments/assets/2b01bb66-473f-46d8-bdee-891d46633531)
+
+- Добавление в корень проекта файла конфигурации нейронной сети
 ## Задание 1
 ### Найдите внутри C# скрипта “коэффициент корреляции ” и сделать выводы о том, как он влияет на обучение модели.
     
