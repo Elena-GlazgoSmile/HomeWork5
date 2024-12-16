@@ -44,7 +44,24 @@
 
 Реализация системы машинного обучения в связке Python - Google-Sheetes-Unity:
 - Создание нового пустого 3D проекта на Unity под названием ML-Agent_GameDiva
+- 
 ![Снимок экрана 2024-12-15 194740](https://github.com/user-attachments/assets/024b1d18-0e23-4d9d-bd82-45437a169842)
+
+- Скачала папку из Workshop#5: ml-agents-release_19.
+- В проекте на Unity я с помощью команд Window - Package Manager - раскрыв + - Add Package From Disk добавила два .json файла:
+- ml-agents-release_19 / com,unity.ml-agents / package.json
+- ml-agents-release_19 / com,unity.ml-agents.extensions / package.json
+
+![Снимок экрана 2024-12-16 130146](https://github.com/user-attachments/assets/6fd1e80a-e831-48c6-a3b8-4d7689aede7c)
+
+![Снимок экрана 2024-12-16 130850](https://github.com/user-attachments/assets/d9c9b684-d260-4132-8c96-45ffca51a24a)
+
+Во вкладке Component появился ML-agent, значит всё сделано правильно.
+
+![Снимок экрана 2024-12-16 131900](https://github.com/user-attachments/assets/93acde91-d5fc-4f7f-892e-fad8b31bdee0)
+
+Запуск Anaconda Promt для дальнейшей работы:
+- Серия команд для создания и активации нового ML-agent + скачивания необходимых библиотек
 
 ## Задание 1
 ### Найдите внутри C# скрипта “коэффициент корреляции ” и сделать выводы о том, как он влияет на обучение модели.
