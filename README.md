@@ -139,7 +139,47 @@
 
 ![Снимок экрана 2024-12-17 231513](https://github.com/user-attachments/assets/c6ce7e2e-b858-4b7e-9fbd-8a3c695e7503)
 
-- Знакомство с его работой.
+- Знакомство с его работой. Так как файл Economic.yaml уже был в папке проекта, то пункт уже считается выполненным.
+- Запуск Anaconda Promt от имени администратора.
+- Создание нового виртуального пространства под именем GameDiva2 и подгрузка библиотек
+
+![Снимок экрана 2024-12-18 161758](https://github.com/user-attachments/assets/2113cb7e-0a9f-40c9-bdf8-83828e3f60db)
+
+- Активация созданного пространства и установка двух пакетов в нём
+
+![Снимок экрана 2024-12-18 162521](https://github.com/user-attachments/assets/7af4fdb1-9417-4417-a7f1-ba1f45bba119)
+
+![Снимок экрана 2024-12-18 162610](https://github.com/user-attachments/assets/cc816267-7b81-4f7d-b1d3-98207b488572)
+
+- Переход в папку, в которой лежит проект с файлом Economic.yaml
+
+![Снимок экрана 2024-12-18 163357](https://github.com/user-attachments/assets/e16b724f-f9c6-4a72-99f4-d6d08dc2a199)
+
+- Запуск обучения ML-агента mlagents-learn Economic.yaml --run-id=Economic –force
+![Снимок экрана 2024-12-18 163925](https://github.com/user-attachments/assets/f7cf422a-d300-443c-9c9d-dca114b8dca9)
+
+![Снимок экрана 2024-12-18 164027](https://github.com/user-attachments/assets/9c4e75ec-58b2-48ec-b783-913255b2eb42)
+
+- Так как я получила результаты обучения в командной строке, то всё сделано правильно. Были сообщения о том, что обучение не произведено, и о том, что обучение было успешным, но большинство сообщений было о том, что обучение не было произведено.
+
+![Снимок экрана 2024-12-18 164205](https://github.com/user-attachments/assets/26dbb5d9-ee2c-4624-9793-6f4a584faf49)
+
+- Завершала я обучение сочетанием клавиш Ctrl + C, чтобы результат был сохранен. Результат был сохранён в папке results в виде обученной нейронной сети
+
+![Снимок экрана 2024-12-18 165427](https://github.com/user-attachments/assets/e2816395-bbb1-4ac4-a528-f9adeb873b68)
+
+- Установка TensorBoard в командной строке
+
+![Снимок экрана 2024-12-18 165950](https://github.com/user-attachments/assets/97019d09-487e-40d0-869b-1cf1651ccfc7)
+
+- Запуск TensorBoard
+
+![Снимок экрана 2024-12-18 170112](https://github.com/user-attachments/assets/e76d0e38-b20e-4c4e-847b-e63bd4824880)
+
+Запуск TensorBoard по ссылке http://localhost:6006
+
+![Снимок экрана 2024-12-18 170455](https://github.com/user-attachments/assets/1857fa92-dd95-4ca1-ad78-385cc397a07f)
+
 ## Задание 1
 ### Найдите внутри C# скрипта “коэффициент корреляции ” и сделать выводы о том, как он влияет на обучение модели.
 
